@@ -1,5 +1,8 @@
 # ML Eval Harness vΩ (Public Demo)
 
+![CI](https://github.com/TheProblemShredder/ML_Eval_Harness_vOmega/actions/workflows/ci.yml/badge.svg)
+
+
 Verification-first eval scaffold (stdlib only):
 
 - prereg thresholds
