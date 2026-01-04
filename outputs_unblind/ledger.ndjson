@@ -1,0 +1,2 @@
+{"AEQ":"ddd3eb74f243","CID":"f8c22a3b02eb","event":"prereg_written","file":"prereg.json","sha256":"a668627e08aa043db5cc2cc6606ff2dc7439eb99fc581ae96116d230caab061b","ts":"2026-01-04T16:56:30Z"}
+{"event":"results_written","file":"results.json","overall_pass":true,"sha256":"5d05001d191f22ef85625a1142e401f45f049c794f13663f0c72d574538efeba","ts":"2026-01-04T16:56:30Z"}

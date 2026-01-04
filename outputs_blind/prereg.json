@@ -1,0 +1,17 @@
+{
+  "seed": 123,
+  "thresholds": {
+    "baseline_acc_min": 0.7,
+    "delta_min": 0.05,
+    "neg_acc_max": 0.6
+  },
+  "metric": "accuracy",
+  "conditions": [
+    "baseline",
+    "ablation",
+    "negative_control"
+  ],
+  "notes": "Synthetic demo harness. Stdlib only.",
+  "AEQ": "ddd3eb74f243",
+  "CID": "f8c22a3b02eb"
+}

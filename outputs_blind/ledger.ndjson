@@ -1,0 +1,3 @@
+{"AEQ":"ddd3eb74f243","CID":"f8c22a3b02eb","event":"prereg_written","file":"prereg.json","sha256":"a668627e08aa043db5cc2cc6606ff2dc7439eb99fc581ae96116d230caab061b","ts":"2026-01-04T16:56:30Z"}
+{"event":"blind_map_written","file":"blind_map.json","sha256":"fdfa69d6ffedb63ec1885251ddd572bc54dfc65c59849ccc2a568497f8d5e306","ts":"2026-01-04T16:56:30Z"}
+{"event":"results_written","file":"results.json","overall_pass":true,"sha256":"43f80bd1066620ab29873c85f95a9780384c3114432b6cfeb96c8b7c11c3ee6f","ts":"2026-01-04T16:56:30Z"}

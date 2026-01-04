@@ -1,0 +1,8 @@
+{
+  "seed": 123,
+  "map_real_to_blind": {
+    "negative_control": "C1",
+    "ablation": "C2",
+    "baseline": "C3"
+  }
+}

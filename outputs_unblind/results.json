@@ -1,0 +1,30 @@
+{
+  "AEQ": "ddd3eb74f243",
+  "CID": "f8c22a3b02eb",
+  "seed": 123,
+  "blind": false,
+  "metrics": {
+    "baseline": 0.775,
+    "ablation": 0.7175,
+    "negative_control": 0.495,
+    "delta(baseline-ablation)": 0.057499999999999996
+  },
+  "gates": {
+    "baseline_acc_min": {
+      "value": 0.775,
+      "min": 0.7,
+      "pass": true
+    },
+    "delta_min": {
+      "value": 0.057499999999999996,
+      "min": 0.05,
+      "pass": true
+    },
+    "neg_acc_max": {
+      "value": 0.495,
+      "max": 0.6,
+      "pass": true
+    }
+  },
+  "overall_pass": true
+}
