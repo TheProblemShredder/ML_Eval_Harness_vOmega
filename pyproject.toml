@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ml-eval-harness-vomega"
+version = "0.1.0"
+description = "ML eval harness vΩ: deterministic eval runs, prereg thresholds, controls/ablations, JSON logs, CI-ready."
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+py-modules = ["run"]
