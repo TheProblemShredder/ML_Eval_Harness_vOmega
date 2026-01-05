@@ -23,3 +23,18 @@ Artifacts:
 - outputs_*/ledger.ndjson          append-only audit trail
 - outputs_*/artifacts_manifest.json sha256 for each artifact
 - outputs_blind/blind_map.json     (blind mode) real->blind mapping
+
+## Proof (reproducible run)
+
+### Commands
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install --upgrade pip
+python3 -m pip install -e . pytest
+pytest -q
+python3 -m your_module --help
+```
+
+### Example output
+See: `docs/example_output.txt`
