@@ -1,3 +1,12 @@
+## What to open first (30 seconds)
+
+- `run.py`
+- `outputs_blind/ledger.ndjson`
+- `outputs_unblind/ledger.ndjson`
+- `outputs_blind/results.json`
+- `outputs_unblind/results.json`
+- `.github/workflows/ci.yml`
+
 # ML Eval Harness vΩ (Public Demo)
 
 ![CI](https://github.com/TheProblemShredder/ML_Eval_Harness_vOmega/actions/workflows/ci.yml/badge.svg)
@@ -38,3 +47,7 @@ python3 run.py --help
 
 ### Example output
 See: `docs/example_output.txt`
+
+## Quickstart
+
+Run the commands in **Proof (reproducible run)** below.
